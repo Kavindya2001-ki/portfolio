@@ -1,1 +1,37 @@
-{\n  \"name\": \"professional-portfolio\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Professional Software Developer Portfolio Website\",\n  \"main\": \"index.html\",\n  \"scripts\": {\n    \"start\": \"python -m http.server 8000\",\n    \"install-deps\": \"npm install\",\n    \"setup\": \"node setup-dependencies.js\",\n    \"build\": \"echo 'Build complete'\",\n    \"test\": \"echo 'No tests configured'\"\n  },\n  \"keywords\": [\n    \"portfolio\",\n    \"developer\",\n    \"bootstrap\",\n    \"fontawesome\",\n    \"responsive\"\n  ],\n  \"author\": \"John Developer\",\n  \"license\": \"MIT\",\n  \"dependencies\": {\n    \"bootstrap\": \"^5.3.0\",\n    \"@fortawesome/fontawesome-free\": \"^6.4.0\",\n    \"aos\": \"^2.3.1\"\n  },\n  \"devDependencies\": {},\n  \"engines\": {\n    \"node\": \">=12.0.0\",\n    \"npm\": \">=6.0.0\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/yourusername/portfolio.git\"\n  },\n  \"homepage\": \"https://yourportfolio.com\"\n}\n
+{
+  "name": "professional-portfolio",
+  "version": "1.0.0",
+  "description": "Professional Software Developer Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "install-deps": "npm install",
+    "setup": "node setup-dependencies.js",
+    "build": "echo 'Build complete'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "bootstrap",
+    "fontawesome",
+    "responsive"
+  ],
+  "author": "M.H. Kavindya De Silva",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "aos": "^2.3.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=12.0.0",
+    "npm": ">=6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kavindya2001-ki/portfolio.git"
+  },
+  "homepage": "https://github.com/Kavindya2001-ki/portfolio"
+}
